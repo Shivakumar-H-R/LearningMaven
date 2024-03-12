@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello world]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-12T12:01:10 IST" name="Default suite" finished-at="2024-03-12T12:01:10 IST" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T12:01:10 IST" name="Default test" finished-at="2024-03-12T12:01:10 IST" duration-ms="45">
+      <class name="learningFramework.TestMVN">
+        <test-method signature="test1()[pri:0, instance:learningFramework.TestMVN@29215f06]" started-at="2024-03-12T12:01:10 IST" name="test1" finished-at="2024-03-12T12:01:10 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello world]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- learningFramework.TestMVN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
