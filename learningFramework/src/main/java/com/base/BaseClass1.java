@@ -19,6 +19,7 @@ import org.testng.asserts.SoftAssert;
 import com.utilityclasses.FrameworkConstants;
 
 public class BaseClass1 implements FrameworkConstants {
+	//push first time
  public WebDriver driver;
  public SoftAssert assert1;
   @Parameters("browserName")
